@@ -1,0 +1,24 @@
+📌 MINI GAME PLAYER - KULLANIM TALİMATLARI 📌
+
+Merhaba Hocam,
+
+Bu klasörde Python ile yazılmış bir mini oyun koleksiyonu bulunmaktadır. 
+Programı çalıştırmak için lütfen aşağıdaki adımları izleyin:
+
+🔹 GEREKLİ YAZILIMLAR:
+1. Python 3.7 veya üzeri
+2. Pygame kütüphanesi
+
+🔹 ÇALIŞTIRMA:
+1. Bu klasördeyken SHIFT + Sağ Tık yapın
+2. "Powershell Penceresini Burada Aç" seçin
+3. Şu komutu yazın : python Mini_Game_Play.py
+
+🎮 KONTROLLER:
+- Fare: Menü navigasyonu
+- ESC: Menüye dön
+- Oyunlara özel kontroller konsolda gösterilir
+
+İyi eğlenceler! 😊
+13412472228-İBRAHİM ZEREJ
+56533014748-HÜSEYİN ARSLANALP
