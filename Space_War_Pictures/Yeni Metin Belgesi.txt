@@ -1,0 +1,11 @@
+#-------------------------------(Space War)-------------------------------------------------
+Space_War_Pictures_Path = os.path.join(os.getcwd(),'Space_War_Pictures')
+
+star_background = "yıldızlı_arkaplan.png"
+star_background = pygame.image.load(os.path.join(Space_War_Pictures_Path,star_background))
+star_background = pygame.transform.scale(star_background,((screen_widht/1.149425287356322),(screen_height/1.634877384196185)))
+
+space_ship = "uzay_gemisi.png"
+space_ship = pygame.image.load(os.path.join(Space_War_Pictures_Path,space_ship))
+space_ship = pygame.transform.scale(space_ship,((screen_widht/9.302325581395349),(screen_height/13.33333333333333)))
+space_ship_locationx,space_ship_locationy = 178.5,330
